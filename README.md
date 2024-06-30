@@ -2,17 +2,19 @@
 
 
 ## Rosenbrock function
-- Objective
-1. Finding the global minima value
-2.Most test cases, a = 1 and b = 100
-3. 3D Minimum at (1,1,1), f(x) = 0
-- Parameters:
-1. Linear crossover is used.
-2. 20% mutation rate.
-3. 3-Dimensional / 3 input variables.
-4. Values range -10 to 10.
-5. Elitism
-![image](https://github.com/SunnySideUpSun/GeneticAlgo/assets/78585950/d02357e6-7d1e-4796-9191-ef9f7b419de1)
+Objective
+Finding the global minima value
+Defined by: 
+F(x) = ∑_(𝑖=0)^(𝑛−1)▒〖𝑏(𝑥_(𝑖+1)−𝑥_𝑖^2 )2+(𝑎−𝑥_𝑖)〗2
+Most test cases, a = 1 and b = 100
+3D Minimum at (1,1,1), f(x) = 0
+Parameters:
+Linear crossover is used.
+20% mutation rate.
+3-Dimensional / 3 input variables.
+Values range -10 to 10.
+Elitism is used.
+![image](https://github.com/SunnySideUpSun/GeneticAlgo/assets/78585950/a92cfee5-64d1-4755-a211-e8c28ee945f6)
 
 ## Rastrigin function
 
