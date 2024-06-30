@@ -10,7 +10,7 @@
 - Objective
 Finding the global minima value
 Defined by:
-
+![image](https://github.com/SunnySideUpSun/GeneticAlgo/assets/78585950/1fd6e333-c7e5-42e1-8e9e-88b610887b8f)
 
 3D global minimum at f(x)=0.
 Best gene = [0,0,0]
@@ -20,5 +20,4 @@ Parameters
 Value range between -5.12 and 5.12.
 Linear crossover.
 20% mutation rate.
-![image](https://github.com/SunnySideUpSun/GeneticAlgo/assets/78585950/d2f34b8c-15e6-4c33-bd20-c0eede8c1931)
 
