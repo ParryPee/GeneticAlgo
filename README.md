@@ -1,5 +1,10 @@
 # Solving optimization problems with Genetic Algorithms.
 
+##Usage
+
+pip install -r requirements.txt
+
+
 
 ## Rosenbrock function
 
