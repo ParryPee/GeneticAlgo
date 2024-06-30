@@ -1,6 +1,6 @@
 # Solving optimization problems with Genetic Algorithms.
 
-##Usage
+## Usage
 
 pip install -r requirements.txt
 
